@@ -1,7 +1,7 @@
 <h1>｡ ₊°༺I'm <a href="https://notsag.fun/">Notsag</a>༻°₊ ｡ <img src="https://i.pinimg.com/originals/85/07/5e/85075e1992bd0141af194e72ecc973de.gif" width="60"> </h1>
 
 <div align="center">
-<h3>⋆˙⟡ Gastón ⏾ | Front-End Developer? | Argentina , San Luis ⋆˙⟡</h3>
+<h3> notsag | Front-End Developer? | Argentina</h3>
 </div>
 
 <p align="center">
